@@ -4,7 +4,7 @@ from colorama import Fore, Back, Style
 from os import system
 import time
 
-system("title Nitro Gen")
+system("title Nitro Gen by: github.com/Her0brine404/Nitro-Gen-Generator")
 
 title = ("""
 888b    888 d8b 888                          .d8888b.                    
@@ -16,7 +16,7 @@ title = ("""
 888   Y8888 888 Y88b.  888    Y88..88P      Y88b  d88P Y8b.     888  888 
 888    Y888 888  "Y888 888     "Y88P"        "Y8888P88  "Y8888  888  888 
                                                                          
-                                                                         
+    https://github.com/Her0brine404/Nitro-Gen-Generator                    
 """)
 print(Fore.BLUE + Style.BRIGHT + title)
 
